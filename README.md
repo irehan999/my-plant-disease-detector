@@ -64,6 +64,7 @@ The motivation is to assist farmers and agricultural professionals by providing 
 ## 🌐 Deployment
 
 Deployed using [Streamlit Cloud](https://streamlit.io/cloud). This platform allows free hosting of Streamlit applications. As uploading custom images isn't required, users can choose from sample test images directly.
+[Live Demo](https://my-plant-disease-detector-8akx66aqfxs7wzgqofzxpp.streamlit.app/)
 
 ---
 
